@@ -1,10 +1,18 @@
-# RockPaperScissor
-This C++ program is a simple implementation of a rock-paper-scissors game with a computer opponent.
-The game consists of a specified number of rounds (in this case, 5 rounds), and the player competes against the computer, which randomly selects rock, paper, or scissors for each round.
+Overview
+This is a console-based rock-paper-scissors game implemented in C++. The player competes against the computer in a series of rounds, with each round's winner determined by the traditional rock-paper-scissors rules. The game announces the overall winner based on the total points earned by the player and the computer.
 
-The program begins by taking the player's name as input and then proceeds to run the game logic for the specified number of rounds. In each round, the player is prompted to input their choice (rock, paper, or scissors), and the computer randomly selects its choice. The program then determines the winner of the round based on the traditional rock-paper-scissors rules, and points are awarded accordingly.
-
-At the end of the game, the program announces the overall winner based on the total points earned by the player and the computer. It also provides an option for the player to choose whether they want to play another round or end the game.
-
-The code includes error handling for invalid input, informing the player that the computer wins the round in case of an invalid character input.
-The program uses the rand() function to generate random numbers for the computer's choices, and it incorporates the srand() function to seed the random number generator based on the current time.
+How to Play
+Run the program.
+Enter your player name when prompted.
+Follow the instructions to input your choice for each round (R/r for Rock, P/p for Paper, S/s for Scissors).
+The computer randomly selects its choice for each round.
+Points are awarded based on the round's outcome.
+At the end of the game, the overall winner is announced.
+Features
+Randomized computer choices for variety.
+Points tracking for each player.
+Simple and intuitive gameplay.
+Usage
+Compile the program using a C++ compiler.
+Run the executable.
+Follow the on-screen instructions to play the game.
