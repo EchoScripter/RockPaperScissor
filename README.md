@@ -42,6 +42,8 @@ Features
 
 *** Simple and intuitive gameplay.
 
+*** The user is requested to input a valid character otherwise the point will be given to computer.
+
 
 Usage
 
@@ -52,7 +54,7 @@ Usage
 - > Run the executable.
 
 
-- > Follow the on-screen instructions to play the game.
+- > here is a on-screen gameplay to understand how to play the game.
 
 
 ![WhatsApp Image 2023-11-11 at 17 23 06_aedf2a2e](https://github.com/EchoScripter/RockPaperScissor/assets/150517886/73ed8504-2212-4a1f-9a7b-0d17e93adf64)
