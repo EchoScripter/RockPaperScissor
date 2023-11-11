@@ -55,3 +55,7 @@ Usage
 - > Follow the on-screen instructions to play the game.
 
 
+![WhatsApp Image 2023-11-11 at 17 23 06_aedf2a2e](https://github.com/EchoScripter/RockPaperScissor/assets/150517886/73ed8504-2212-4a1f-9a7b-0d17e93adf64)
+
+![WhatsApp Image 2023-11-11 at 17 23 33_321b91c2](https://github.com/EchoScripter/RockPaperScissor/assets/150517886/475934f2-96f0-4b54-83e8-420caa3a1ff3)
+
