@@ -83,7 +83,7 @@ void gamelogic(int n,string s)
                     cout<<"I Chose Scissors"<<endl;
                     cout<<"so No point"<<endl<<endl<<endl;
                 }
-                else if(guess=='r' || guess=='r')
+                else if(guess=='r' || guess=='R')
                 {
                     cout<<"You chose Rock"<<endl;
                     cout<<"I Chose Scissors"<<endl;
