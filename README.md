@@ -1,5 +1,5 @@
 
-Overview
+# Overview
 
 
 This is a console-based rock-paper-scissors game implemented in C++. The player competes against the computer in a series of rounds, with each round's winner determined by the traditional rock-paper-scissors rules. The game announces the overall winner based on the total points earned by the player and the computer.
@@ -7,7 +7,7 @@ This is a console-based rock-paper-scissors game implemented in C++. The player 
 
 
 
-How to Play
+# How to Play
 
 
 1.Run the program.
@@ -34,7 +34,7 @@ How to Play
 
 
 
-Features
+# Features
 
 *** Randomized computer choices for variety.
 
@@ -45,7 +45,7 @@ Features
 *** The user is requested to input a valid character otherwise the point will be given to computer.
 
 
-Usage
+# Usage
 
 
 - > Compile the program using a C++ compiler.
