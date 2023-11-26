@@ -53,11 +53,14 @@ This is a console-based rock-paper-scissors game implemented in C++. The player 
 
 - > Run the executable.
 
+- > You can play as many game as you want 
 
 - > here is a on-screen gameplay to understand how to play the game.
 
+![image](https://github.com/EchoScripter/RockPaperScissor/assets/150517886/c1e10bc0-51ab-49f7-b150-7570365af219)
+![image](https://github.com/EchoScripter/RockPaperScissor/assets/150517886/8d0dc094-e769-4a37-9f39-142c204954d1)
 
-![WhatsApp Image 2023-11-11 at 17 23 06_aedf2a2e](https://github.com/EchoScripter/RockPaperScissor/assets/150517886/73ed8504-2212-4a1f-9a7b-0d17e93adf64)
 
-![WhatsApp Image 2023-11-11 at 17 23 33_321b91c2](https://github.com/EchoScripter/RockPaperScissor/assets/150517886/475934f2-96f0-4b54-83e8-420caa3a1ff3)
+
+
 
