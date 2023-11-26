@@ -10,11 +10,11 @@ void gamelogic(int n,string s)
     int point1=0;
     int point2=0;
 
-    srand((unsigned int) time(0));
+    srand((unsigned int) time(NULL));
     for(int i=1;i<=n;i++)
     {
     
-    int number = (rand() % 9)+1; 
+    int number = (rand() % 3)+1; 
 
         cout<<"Round "<<i<<endl<<endl;
         char guess;
@@ -22,7 +22,7 @@ void gamelogic(int n,string s)
         cin>>guess;
 
         if(guess=='R' || guess=='r' || guess=='S' || guess=='s' || guess=='P' || guess=='p'){
-            if(number<=3)
+            if(number==1)
             {
                 if(guess=='r' || guess=='R')
                 {
@@ -47,7 +47,7 @@ void gamelogic(int n,string s)
                     cout<<"I have "<<point2<<" points after round "<<i<<endl;
                     cout<<"You have "<<point1<<" points after round "<<i<<endl<<endl<<endl;               
             }
-            else if(number>=4&&number<=6)
+            else if(number==3)
             {
                 
                 if(guess=='p' || guess=='P')
