@@ -122,7 +122,7 @@ void gamelogic(int n,string s)
         cout<<"We could not deciede it this time"<<endl<<endl;
         cout<<"Would you like to play again"<<endl<<endl<<endl;
     }
-    cout<<"To play again input 1 or 0 to end this now"<<endl;
+    cout<<"To play again input Y/y or N/n to end this now"<<endl;
 }
 int main()
 {
@@ -142,10 +142,10 @@ int main()
  
     while(true)
     {
-        int k;
-        cin>>k;
+        char c;
+        cin>>c;
            
-            if(k==1)
+            if(c == 'Y' || c == 'y')
             {
                 gamelogic(n,name);
             }
