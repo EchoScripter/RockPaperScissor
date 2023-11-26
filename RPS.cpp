@@ -10,7 +10,7 @@ void gamelogic(int n,string s)
     int point1=0;
     int point2=0;
 
-    srand(time(NULL));
+    srand((unsigned int) time(0));
     for(int i=1;i<=n;i++)
     {
     
