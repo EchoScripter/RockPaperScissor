@@ -26,7 +26,7 @@ void gamelogic(int n,string s)
             {
                 if(guess=='r' || guess=='R')
                 {
-                    cout<<"You chose Rock"<<endl;
+                    cout<<"You chose Rock"<<endl<<endl;
                     cout<<"I Chose Rock"<<endl;
                     cout<<"so No point"<<endl<<endl<<endl;
                 }
@@ -44,7 +44,7 @@ void gamelogic(int n,string s)
                     cout<<"so I get a point"<<endl<<endl<<endl;
                     point2++;
                 }
-                    cout<<"I have "<<point2<<" points after round "<<i<<endl;
+                    cout<<"I have "<<point2<<" points after round "<<i<<endl<<endl;
                     cout<<"You have "<<point1<<" points after round "<<i<<endl<<endl<<endl;               
             }
             else if(number==3)
@@ -71,7 +71,7 @@ void gamelogic(int n,string s)
                     point2++;
         
                 }
-                    cout<<"I have "<<point2<<" points after round "<<i<<endl;
+                    cout<<"I have "<<point2<<" points after round "<<i<<endl<<endl;
                     cout<<"You have "<<point1<<" points after round "<<i<<endl<<endl<<endl;
             }
 
@@ -97,7 +97,7 @@ void gamelogic(int n,string s)
                     cout<<"so I get a point"<<endl<<endl<<endl;
                     point2++;
                 }
-                    cout<<"I have "<<point2<<" points after round "<<i<<endl;
+                    cout<<"I have "<<point2<<" points after round "<<i<<endl<<endl;
                     cout<<"You have "<<point1<<" points after round "<<i<<endl<<endl<<endl;
             }
         }
